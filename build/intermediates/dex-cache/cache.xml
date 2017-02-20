@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6c6abec1d4ed9daeb3f367f7ef232eba0846a808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e74b2b70ccd6c486041732d2b13043918e716ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8db3838fd967dd72358d4b22fb8b0b70b58d90d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_412bdc0406d7e4174c9919a832b3201fc907a696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_a4b62ee4a6f83c7a6b50418f49a3d0b940a9e23c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_df15678b9a88fa948882e1650a2a8e5a7900c16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7ca1f91fe20c1c6f2973510b1141f1d38e64c41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_da8ea22d36548b9cfba0a0518c6c0e8a91d3f481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_decd4cfbd9460193e7c135ff527367c5498bce83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_523f58b2f30fd7cdeb6adfac43b021041767a458/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4a6703c40c927639630f5eb7c44d4f7224241a6">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05c2b34672c97a6edfbf724d0b85f21e6347588e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Desktop/FILES/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2814eb1a236eb6260659824aea31a241ac1f3fab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87e1f20dfcdc13e389dfa4f9dde9927aa06a6cc5">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b53017a5a09ed23b6fabcdd5b692d36f87d4d541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_70188ced669df81358224764a70c0ef3b51f8e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_66f7da815530c60e680d753b7dc7b3cf1dbfbb07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_948dda5843dd6cc7a28d8f6d8e3ac403f3d9490f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/johncarlofranco/Android-Custom-View/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0b2267a9ccd7a81992fcca07dab03363a32eb588/classes.dex" />
+    </item>
+
+</items>

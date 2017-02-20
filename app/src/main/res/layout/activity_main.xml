@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.apkmarvel.androidcustomview.MainActivity">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <RadioButton
+            android:id="@+id/rbtnViant"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/rbtn_selector"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:text="Viant"
+            android:checked="true" />
+        <RadioButton
+            android:id="@+id/rbtnDessert"
+            android:background="@drawable/rbtn_selector"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Dessert" />
+
+        <RadioButton
+            android:id="@+id/rbtnSoup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:button="@null"
+            android:background="@drawable/rbtn_selector"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Soup" />
+    </RadioGroup>
+    <Button
+        android:id="@+id/btn_login"
+        style="@style/button_orange_rectangle"
+        android:text="Login" />
+
+</LinearLayout>
